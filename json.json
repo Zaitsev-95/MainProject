@@ -1,0 +1,115 @@
+{
+  "info":"Location IT-company: Minsk",
+  "companies": [
+    {
+      "name": "A1QA",
+      "dateOfCreation": "12.08.2003",
+      "specialization": [
+        "Testing"
+      ],
+      "personal": "450",
+      "isForeign": "true"
+    },
+    {
+      "name": "HQSoftware",
+      "dateOfCreation": "08.11.2011",
+      "specialization": [
+        "VR",
+        "IOT",
+        "Outsourcing"
+      ],
+      "personal": "70",
+      "isForeign": "false"
+    },
+    {
+      "name": "Gameloft",
+      "dateOfCreation": "25.03.1999",
+      "specialization": [
+        "Gamedev"
+      ],
+      "personal": "5000",
+      "isForeign": "true"
+    },
+    {
+      "name": "Vizor Games",
+      "dateOfCreation": "01.04.2009",
+      "specialization": [
+        "Gamedev"
+      ],
+      "personal": "180",
+      "isForeign": "false"
+    },
+    {
+      "name": "VRTek",
+      "dateOfCreation": "18.07.2016",
+      "specialization": [
+        "Gamedev",
+        "Own products",
+        "Hardware",
+        "VR"
+      ],
+      "personal": "50",
+      "isForeign": "false"
+    },
+    {
+      "name": "Altoros Development",
+      "dateOfCreation": "21.03.2001",
+      "specialization": [
+        "Outsourcing",
+        "Big Data",
+        "IOT",
+        "Machine learning"
+      ],
+      "personal": "300",
+      "isForeign": "true"
+    },
+    {
+      "name": "Andersen",
+      "dateOfCreation": "05.10.2007",
+      "specialization": [
+        "Outsourcing"
+      ],
+      "personal": "298",
+      "isForeign": "false"
+    },
+    {
+      "name": "CETC",
+      "dateOfCreation": "06.25.2002",
+      "specialization": [
+        "Big Data",
+        "Machine learning",
+        "Own products"
+      ],
+      "personal": "190000",
+      "isForeign": "true"
+    },
+    {
+      "name": "EIS Group",
+      "dateOfCreation": "08.12.2007",
+      "specialization": [
+        "Own products"
+      ],
+      "personal": "780",
+      "isForeign": "true"
+    },
+    {
+      "name": "Qulix Systems",
+      "dateOfCreation": "16.05.2000",
+      "specialization": [
+        "Outsourcing",
+        "Testing"
+      ],
+      "personal": "300",
+      "isForeign": "true"
+    },
+    {
+      "name": "MobSoft",
+      "dateOfCreation": "24.03.2017",
+      "specialization": [
+        "Outsourcing"
+      ],
+      "personal": "100",
+      "isForeign": "false"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+<root>
+    <companies info="Location IT-company: Minsk">
+        <company>
+            <name>A1QA</name>
+            <dateOfCreation>12.08.2003</dateOfCreation>
+            <specializationList>
+            <specialization>Testing</specialization>
+            </specializationList>
+            <personal>450</personal>
+            <isForeign>true</isForeign>
+        </company>
+        <company>
+            <name>HQSoftware</name>
+            <dateOfCreation>08.11.2011</dateOfCreation>
+            <specializationList>
+            <specialization>VR</specialization>
+            <specialization>IOT</specialization>
+            <specialism>Outsourcing</specialism>
+            </specializationList>
+            <personal>70</personal>
+            <isForeign>false</isForeign>
+        </company>
+        <company>
+            <name>Gameloft</name>
+            <dateOfCreation>25.03.1999</dateOfCreation>
+            <specializationList>
+            <specialization>Gamedev</specialization>
+            </specializationList>
+            <personal>5000</personal>
+            <isForeign>true</isForeign>
+        </company>
+        <company>
+            <name>Vizor Games</name>
+            <dateOfCreation>01.04.2009</dateOfCreation>
+            <specializationList>
+            <specialization>Gamedev</specialization>
+            </specializationList>
+            <personal>180</personal>
+            <isForeign>false</isForeign>
+        </company>
+        <company>
+            <name>VRTek</name>
+            <dateOfCreation>18.07.2016</dateOfCreation>
+            <specializationList>
+            <specialization>Gamedev</specialization>
+            <specialization>Own products</specialization>
+            <specialization>Hardware</specialization>
+            <specialization>VR</specialization>
+            </specializationList>
+            <personal>50</personal>
+            <isForeign>false</isForeign>
+        </company>
+        <company>
+            <name>Altoros Development</name>
+            <dateOfCreation>21.03.2001</dateOfCreation>
+            <specializationList>
+            <specialization>Outsourcing</specialization>
+            <specialization>Big Data</specialization>
+            <specialization>IOT</specialization>
+            <specialization>Machine learning</specialization>
+            </specializationList>
+            <personal>300</personal>
+            <isForeign>true</isForeign>
+        </company>
+        <company>
+            <name>Andersen</name>
+            <dateOfCreation>05.10.2007</dateOfCreation>
+            <specializationList>
+            <specialization>Outsourcing</specialization>
+            </specializationList>
+            <personal>298</personal>
+            <isForeign>false</isForeign>
+        </company>
+        <company>
+            <name>CETC</name>
+            <dateOfCreation>06.25.2002</dateOfCreation>
+            <specializationList>
+            <specialization>Big Data</specialization>
+            <specialization>Machine learning</specialization>
+            <specialization>Own products</specialization>
+            </specializationList>
+            <personal>190000</personal>
+            <isForeign>true</isForeign>
+        </company>
+        <company>
+            <name>EIS Group</name>
+            <dateOfCreation>08.12.2007</dateOfCreation>
+            <specializationList>
+            <specialization>Own products</specialization>
+            </specializationList>
+            <personal>780</personal>
+            <isForeign>true</isForeign>
+        </company>
+        <company>
+            <name>Qulix Systems</name>
+            <dateOfCreation>16.05.2000</dateOfCreation>
+            <specializationList>
+            <specialization>Outsourcing</specialization>
+            <specialization>Testing</specialization>
+            </specializationList>
+            <personal>300</personal>
+            <isForeign>true</isForeign>
+        </company>
+        <company>
+            <name>MobSoft</name>
+            <dateOfCreation>24.03.2017</dateOfCreation>
+            <specializationList>
+            <specialization>Outsourcing</specialization>
+            </specializationList>
+            <personal>100</personal>
+            <isForeign>false</isForeign>
+        </company>
+    </companies>
+</root>
